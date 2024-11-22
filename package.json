@@ -37,6 +37,14 @@
 	},
 	"dependencies": {
 		"@sveltejs/adapter-static": "^3.0.6",
-		"@tailwindcss/typography": "^0.5.15"
-	}
+		"@tailwindcss/typography": "^0.5.15",
+		"body-parser": "^1.20.3",
+		"cors": "^2.8.5",
+		"express": "^4.21.1"
+	},
+	"description": "Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).",
+	"main": "eslint.config.js",
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
 }
